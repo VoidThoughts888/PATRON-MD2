@@ -35,7 +35,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
-MODE: process.env.MODE || "private",
+MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
@@ -59,6 +59,6 @@ ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
 // Set "log" to send deleted messages to owner DM, "group" to send in the same group
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
 // make it true for auto recording 
-lid: process.env.lid || "",
+lid: process.env.lid || "2349161355499",
 // add lid numbers separate with comma and @lid suffix (e.g. "123456@lid, 789012@lid")
 };
