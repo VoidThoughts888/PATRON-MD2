@@ -25,9 +25,9 @@ CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,🚹,🤎,🚹,🤍",
 // chose custom react emojis by yourself 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "2348133729715",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "2349161355499",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "PATRON",
+OWNER_NAME: process.env.OWNER_NAME || "DIO",
 // add bot owner name
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
